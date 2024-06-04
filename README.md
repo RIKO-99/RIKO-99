@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**RIKO-99/RIKO-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a passionate and dedicated software engineer, currently pursuing an undergraduate degree in Information Technology. My journey into the tech world began with a year-long bootcamp where I specialized in backend services. Through this intensive program, I gained proficiency in various programming languages and technologies, which I am now applying to build innovative startup ideas that address both local and global challenges.
 
-Here are some ideas to get you started:
+## Education
+- **Undergraduate Degree in Information Technology**
+  - Institution: [Your University Name]
+  - Expected Graduation: [Year]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Software Engineering Bootcamp**
+  - Duration: 1 Year
+  - Focus: Backend Services
+
+## Technical Skills
+- **Programming Languages:**
+  - HTML
+  - CSS
+  - JavaScript
+  - C
+  - Python
+
+- **Development Tools:**
+  - Bash
+  - Linux
+  - Git
+  - GitHub
+
+- **Project Management Tools:**
+  - Trello
+  - Confluence
+  - Slack
+  - Discord
