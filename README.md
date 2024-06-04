@@ -1,32 +1,27 @@
+<h1 align="center">Hi 👋, I'm RIKO</h1>
+<h3 align="center">Passionate and dedicated Backend engineer</h3>
 
-## About Me
-I am a passionate and dedicated software engineer, currently pursuing an undergraduate degree in Information Technology. My journey into the tech world began with a year-long bootcamp where I specialized in backend services. Through this intensive program, I gained proficiency in various programming languages and technologies, which I am now applying to build innovative startup ideas that address both local and global challenges.
+<p align="left"> <a href="https://twitter.com/riko_hssn" target="blank"><img src="https://img.shields.io/twitter/follow/riko_hssn?logo=twitter&style=for-the-badge" alt="riko_hssn" /></a> </p>
 
-## Education
-- **Undergraduate Degree in Information Technology**
-  - Institution: [Your University Name]
-  - Expected Graduation: [Year]
+- 🔭 I’m currently working on **personal projects**
 
-- **Software Engineering Bootcamp**
-  - Duration: 1 Year
-  - Focus: Backend Services
+- 🌱 I’m currently learning **AWS**
 
-## Technical Skills
-- **Programming Languages:**
-  - HTML
-  - CSS
-  - JavaScript
-  - C
-  - Python
+- 📝 I regularly write articles on [medium](medium)
 
-- **Development Tools:**
-  - Bash
-  - Linux
-  - Git
-  - GitHub
+- 💬 Ask me about **solving problems with code**
 
-- **Project Management Tools:**
-  - Trello
-  - Confluence
-  - Slack
-  - Discord
+- 📫 How to reach me **rikohssn@gmail.com**
+
+- ⚡ Fun fact **I think am funny**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/riko_hssn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="riko_hssn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ibrahim-hassan99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim-hassan99" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riko-99&" alt="riko-99" /></p>
