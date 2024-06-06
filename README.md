@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/riko_hssn" target="blank"><img src="https://img.shields.io/twitter/follow/riko_hssn?logo=twitter&style=for-the-badge" alt="riko_hssn" /></a> </p>
 
-- 🔭 I’m currently working on **personal projects**
+- 🔭 I’m currently working on **AfriGulf Project**
 
 - 🌱 I’m currently learning **AWS**
 
