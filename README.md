@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 📝 I regularly write articles on [medium](medium)
+- 📝 I write tech related articles on [medium](medium)
 
 - 💬 Ask me about **solving problems with code**
 
