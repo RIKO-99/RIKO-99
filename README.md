@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RIKO</h1>
-<h3 align="center">Passionate and dedicated Engineer</h3>
+<h3 align="center">Passionate and Dedicated Engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/riko_hssn" target="blank"><img src="https://img.shields.io/twitter/follow/riko_hssn?logo=twitter&style=for-the-badge" alt="riko_hssn" /></a> </p>
 
